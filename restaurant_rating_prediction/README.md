@@ -1,5 +1,4 @@
 # Restaurant Rating Prediction System: Analysis and Implementation
-## Cognifyz Technologies - Task 1
 
 ### Abstract
 This study presents the development and implementation of a machine learning-based system for predicting restaurant ratings. The research utilized a comprehensive dataset containing various restaurant attributes including location, cuisine types, and customer engagement metrics. Through systematic data preprocessing and model evaluation, we successfully developed a prediction system achieving remarkable accuracy in estimating restaurant ratings.
